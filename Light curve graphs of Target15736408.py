@@ -25,3 +25,5 @@ folded_lc.scatter(s=1);
 
 binned_lc = folded_lc.bin(binsize=10) 
 binned_lc.scatter();
+
+pixelfile.plot_pixels();
