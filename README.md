@@ -6,3 +6,7 @@ To find new exoplanets, TESS first looks at large areas of the sky, called secto
 Data taken from TESS satelites to look for indicators of a transiting exoplanet. The aim of this algorithm is to look for specific characteristics, such as the size of the planet and the temperature which in this case are trying to look for an exoplanet which is roughly around the same density, radius, temperature, mass and luminosity as our local sun. The distance will be in within 20 parsecs.
 
 ![image](https://user-images.githubusercontent.com/119301326/215322942-320b551d-618b-4157-855e-a52ddf1cb97f.png)
+
+You can use this link to check your results and get an understanding of what you have produced. 
+
+https://arxiv.org/pdf/1207.3093.pdf
